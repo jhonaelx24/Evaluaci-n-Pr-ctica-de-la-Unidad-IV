@@ -8,6 +8,10 @@ Este repositorio contiene el desarrollo completo en LaTeX de las actividades P1 
 
 ```
 ├── main (1).tex                                # Documento principal en LaTeX
+├── diagramas/
+│   ├── class_diagram.tex                       # Diagrama de clases UML (P1)
+│   ├── activity_diagram.tex                    # Diagrama de actividades (P2)
+│   └── state_diagram.tex                       # Máquina de estados (P3)
 ├── ISR401_PruebaPractica_UnidadIV.pdf.pdf      # PDF ya compilado
 ├── README.md
 └── Capturas_Evaluacion.pdf                     # PDF ya compilado, de la evaluación en el SGA
