@@ -7,14 +7,14 @@ Este repositorio contiene el desarrollo completo en LaTeX de las actividades P1 
 ## 📁 Estructura del repositorio
 
 ```
-├── main (1).tex                                # Documento principal en LaTeX
-├── diagramas/
-│   ├── class_diagram.tex                       # Diagrama de clases UML (P1)
-│   ├── activity_diagram.tex                    # Diagrama de actividades (P2)
-│   └── state_diagram.tex                       # Máquina de estados (P3)
-├── ISR401_PruebaPractica_UnidadIV.pdf.pdf      # PDF ya compilado
+├── main.tex                                          # Documento principal en LaTeX
+├── diagrams/
+│   ├── class_diagram.tex                             # Diagrama de clases UML (P1)
+│   ├── activity_diagram.tex                          # Diagrama de actividades (P2)
+│   └── state_diagram.tex                             # Máquina de estados (P3)
+├── Evaluación_Práctica_de_la_Unidad_IV.compilado.pdf # PDF ya compilado
 ├── README.md
-└── Capturas_Evaluacion.pdf                     # PDF ya compilado, de la evaluación en el SGA
+└── Capturas_Evaluacion.pdf                           # PDF ya compilado, de la evaluación en el SGA
 ```
 
 ## 🔧 Requisitos para compilar
@@ -24,4 +24,7 @@ Este repositorio contiene el desarrollo completo en LaTeX de las actividades P1 
 
 ## 👤 Autor
 
-Mesias Quijije Jhon Alexander — Ingeniería en Software UTEQ — Cuarto Semestre
+**Mesias Quijije Jhon Alexander**
+Ingeniería en Software — UTEQ — Cuarto Semestre
+
+🔗 [Repositorio en GitHub](https://github.com/jhonaelx24/Evaluaci-n-Pr-ctica-de-la-Unidad-IV/tree/main)
